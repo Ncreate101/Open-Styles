@@ -22,6 +22,11 @@ p.title {
 	padding: 0;
 }
 
+h1.title {
+    font-size: 26px;
+    font-weight: bold;
+}
+
 p.content {
 	margin: 0;
 	padding: 0;
